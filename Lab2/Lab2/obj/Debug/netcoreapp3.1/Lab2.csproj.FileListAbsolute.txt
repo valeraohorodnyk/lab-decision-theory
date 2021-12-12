@@ -1,0 +1,13 @@
+D:\Політех\4.1\Кривий\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+D:\Політех\4.1\Кривий\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+D:\Політех\4.1\Кривий\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+D:\Політех\4.1\Кривий\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+D:\Політех\4.1\Кривий\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+D:\Політех\4.1\Кривий\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+D:\Політех\4.1\Кривий\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+D:\Політех\4.1\Кривий\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+D:\Політех\4.1\Кривий\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+D:\Політех\4.1\Кривий\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+D:\Політех\4.1\Кривий\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+D:\Політех\4.1\Кривий\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+D:\Політех\4.1\Кривий\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache

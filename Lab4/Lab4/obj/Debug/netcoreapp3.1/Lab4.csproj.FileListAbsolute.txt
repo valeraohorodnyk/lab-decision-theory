@@ -1,0 +1,13 @@
+D:\Політех\4.1\Кривий\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\Політех\4.1\Кривий\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\Політех\4.1\Кривий\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\Політех\4.1\Кривий\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\Політех\4.1\Кривий\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\Політех\4.1\Кривий\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\Політех\4.1\Кривий\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+D:\Політех\4.1\Кривий\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\Політех\4.1\Кривий\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\Політех\4.1\Кривий\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\Політех\4.1\Кривий\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\Політех\4.1\Кривий\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\Політех\4.1\Кривий\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
